@@ -1,2 +1,2 @@
 # employeeManagement
-connecting angular with c# .net core
+Learn to connect angular with c# .net core
